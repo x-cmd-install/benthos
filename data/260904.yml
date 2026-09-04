@@ -7,7 +7,7 @@ about:
   head: a3bfd1c
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T19:34:34Z
+  collectedAt: 2026-09-04T20:57:34Z
 timeline:
   created: 2024-05-20
   lastCommit: 2026-09-03
@@ -85,5 +85,63 @@ total:
   openIssue: 55
   commit: 5446
 ---
+path: /home/runner/.x-repo/github.com/redpanda-data/benthos
+collectedAt: 2026-09-04T20:57:36Z
+loc:
+  Go:
+    code: 150141
+    comments: 12141
+    blanks: 25563
+    files: 820
+  Yaml:
+    code: 1132
+    comments: 5
+    blanks: 107
+    files: 38
+  Rust:
+    code: 54
+    comments: 4
+    blanks: 19
+    files: 1
+  Html:
+    code: 43
+    comments: 0
+    blanks: 1
+    files: 1
+  Makefile:
+    code: 32
+    comments: 1
+    blanks: 15
+    files: 1
+  Toml:
+    code: 14
+    comments: 6
+    blanks: 3
+    files: 1
+  Sh:
+    code: 13
+    comments: 14
+    blanks: 7
+    files: 2
+  Pan:
+    code: 4
+    comments: 1
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2991
+    blanks: 1650
+    files: 8
+  Text:
+    code: 0
+    comments: 12
+    blanks: 10
+    files: 2
+total:
+  code: 151679
+  comments: 15209
+  blanks: 27408
+  files: 875
 ---
 
