@@ -2,15 +2,15 @@ about:
   description: ""
   license: MIT
   homepage: 
-  head: f9c6d87
+  head: d8319c9
   archived: false
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T05:19:43Z
+  collectedAt: 2026-09-10T17:00:42Z
 timeline:
   created: 2024-05-20
-  lastCommit: 2026-09-09
+  lastCommit: 2026-09-10
   lastVersion: 
   lastRelease: 
   lastPrerelease: 
@@ -20,7 +20,7 @@ popularity:
   fork: 120
   release: 0
   contributor: 47
-  pullRequest: 417
+  pullRequest: 418
   issue: 78
 language:
   Go: 5100178
@@ -34,61 +34,61 @@ recent:
   last30d:
     since: 2026-08-11
     release: 0
-    mergedPR: 18
-    openPR: 4
+    mergedPR: 20
+    openPR: 3
     closedIssue: 0
     openIssue: 1
-    commit: 19
+    commit: 22
   last60d:
     since: 2026-07-12
     release: 0
-    mergedPR: 24
-    openPR: 8
+    mergedPR: 27
+    openPR: 6
     closedIssue: 0
     openIssue: 2
-    commit: 24
+    commit: 27
   last90d:
     since: 2026-06-12
     release: 0
-    mergedPR: 30
-    openPR: 8
+    mergedPR: 33
+    openPR: 6
     closedIssue: 0
     openIssue: 2
-    commit: 35
+    commit: 38
   last180d:
     since: 2026-03-14
     release: 0
-    mergedPR: 67
-    openPR: 11
+    mergedPR: 70
+    openPR: 9
     closedIssue: 1
     openIssue: 6
-    commit: 70
+    commit: 73
   last360d:
     since: 2025-09-15
     release: 0
-    mergedPR: 140
-    openPR: 12
+    mergedPR: 143
+    openPR: 10
     closedIssue: 3
     openIssue: 12
-    commit: 172
+    commit: 175
   last720d:
     since: 2024-09-20
     release: 0
-    mergedPR: 247
-    openPR: 16
+    mergedPR: 250
+    openPR: 14
     closedIssue: 15
     openIssue: 45
-    commit: 364
+    commit: 367
 total:
   release: 0
-  mergedPR: 296
-  openPR: 24
+  mergedPR: 299
+  openPR: 22
   closedIssue: 23
   openIssue: 55
-  commit: 5449
+  commit: 5452
 ---
 path: /home/runner/.x-repo/github.com/redpanda-data/benthos
-collectedAt: 2026-09-10T05:19:47Z
+collectedAt: 2026-09-10T17:00:49Z
 loc:
   Go:
     code: 150419
