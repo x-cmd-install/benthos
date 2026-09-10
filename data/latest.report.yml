@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-10T21:32:26Z
+  collectedAt: 2026-09-10T22:34:01Z
 timeline:
   created: 2024-05-20
   lastCommit: 2026-09-10
@@ -88,7 +88,7 @@ total:
   commit: 5452
 ---
 path: /home/runner/.x-repo/github.com/redpanda-data/benthos
-collectedAt: 2026-09-10T21:32:30Z
+collectedAt: 2026-09-10T22:34:07Z
 loc:
   Go:
     code: 150419
