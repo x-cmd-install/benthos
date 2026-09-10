@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-![benthos](https://repo.x-cmd.io/benthos.svg)
+![benthos](https://repo.x-cmd.io/benthos.svg?lang=zh)
 
 ## 安装
 
@@ -21,15 +21,15 @@ x install benthos
 
 ## 累计统计
 
-- **发布数**: 0 · **已合并 PR**: 296 · **开放 PR**: 24 · **已关闭 issue**: 23 · **开放 issue**: 55 · **提交数**: 5449
+- **发布数**: 0 · **已合并 PR**: 299 · **开放 PR**: 22 · **已关闭 issue**: 23 · **开放 issue**: 55 · **提交数**: 5452
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 18 | 4 | 0 | 1 | 19 |
-| 90d | 2026-06-12 | 0 | 30 | 8 | 0 | 2 | 35 |
-| 360d | 2025-09-15 | 0 | 140 | 12 | 3 | 12 | 172 |
+| 30d | 2026-08-11 | 0 | 20 | 3 | 0 | 1 | 22 |
+| 90d | 2026-06-12 | 0 | 33 | 6 | 0 | 2 | 38 |
+| 360d | 2025-09-15 | 0 | 143 | 10 | 3 | 12 | 175 |
 
 ## 代码规模
 
@@ -52,4 +52,4 @@ benthos 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:19:51Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:00:55Z._
