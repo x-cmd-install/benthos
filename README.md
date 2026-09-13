@@ -29,22 +29,22 @@ Total: **151,711** lines of code across **861** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 570 · **Forks**: 120 · **Open issues**: 79 · **Contributors**: 47
+- **Stars**: 570 · **Forks**: 121 · **Open issues**: 80 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 299 · **Open PRs**: 22 · **Closed issues**: 23 · **Open issues**: 56 · **Commits**: 5452
+- **Releases**: 0 · **Merged PRs**: 299 · **Open PRs**: 23 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5452
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 20 | 2 | 0 | 2 | 22 |
-| last60d | 2026-07-14 | 0 | 27 | 6 | 0 | 3 | 27 |
-| 90d | 2026-06-14 | 0 | 33 | 6 | 0 | 3 | 38 |
-| last180d | 2026-03-16 | 0 | 66 | 9 | 1 | 7 | 73 |
-| 360d | 2025-09-17 | 0 | 142 | 10 | 3 | 13 | 175 |
-| last720d | 2024-09-22 | 0 | 250 | 14 | 15 | 46 | 367 |
+| 30d | 2026-08-14 | 0 | 20 | 3 | 0 | 3 | 18 |
+| last60d | 2026-07-15 | 0 | 27 | 7 | 0 | 4 | 27 |
+| 90d | 2026-06-15 | 0 | 32 | 7 | 0 | 4 | 36 |
+| last180d | 2026-03-17 | 0 | 59 | 10 | 1 | 8 | 64 |
+| 360d | 2025-09-18 | 0 | 142 | 11 | 3 | 14 | 173 |
+| last720d | 2024-09-23 | 0 | 250 | 15 | 15 | 47 | 367 |
 
 ## Distribution status
 
@@ -64,4 +64,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:06:05Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:20:15Z._
