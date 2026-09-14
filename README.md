@@ -29,7 +29,7 @@ Total: **151,711** lines of code across **861** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 570 · **Forks**: 121 · **Open issues**: 80 · **Contributors**: 47
+- **Stars**: 570 · **Forks**: 120 · **Open issues**: 80 · **Contributors**: 47
 
 ## Totals (cumulative)
 
@@ -39,21 +39,12 @@ Total: **151,711** lines of code across **861** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 20 | 3 | 0 | 3 | 18 |
-| last60d | 2026-07-15 | 0 | 27 | 7 | 0 | 4 | 27 |
-| 90d | 2026-06-15 | 0 | 32 | 7 | 0 | 4 | 36 |
-| last180d | 2026-03-17 | 0 | 59 | 10 | 1 | 8 | 64 |
-| 360d | 2025-09-18 | 0 | 142 | 11 | 3 | 14 | 173 |
-| last720d | 2024-09-23 | 0 | 250 | 15 | 15 | 47 | 367 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/benthos). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.80.0` | ✅ latest |
-| Nix unstable | `4.77.0` | ⚠️ outdated |
+| 30d | 2026-08-15 | 0 | 20 | 3 | 0 | 3 | 18 |
+| last60d | 2026-07-16 | 0 | 27 | 7 | 0 | 4 | 27 |
+| 90d | 2026-06-16 | 0 | 32 | 7 | 0 | 4 | 36 |
+| last180d | 2026-03-18 | 0 | 57 | 10 | 1 | 6 | 64 |
+| 360d | 2025-09-19 | 0 | 142 | 11 | 3 | 14 | 173 |
+| last720d | 2024-09-24 | 0 | 250 | 14 | 15 | 47 | 367 |
 
 ## Improve this data
 
@@ -64,4 +55,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:20:15Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:21:47Z._
