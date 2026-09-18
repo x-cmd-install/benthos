@@ -39,12 +39,12 @@ Total: **151,711** lines of code across **861** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 0 | 18 | 4 | 0 | 3 | 18 |
-| last60d | 2026-07-19 | 0 | 27 | 9 | 0 | 4 | 27 |
-| 90d | 2026-06-19 | 0 | 31 | 9 | 0 | 4 | 36 |
-| last180d | 2026-03-21 | 0 | 55 | 12 | 1 | 6 | 64 |
-| 360d | 2025-09-22 | 0 | 141 | 13 | 3 | 14 | 173 |
-| last720d | 2024-09-27 | 0 | 249 | 16 | 15 | 47 | 365 |
+| 30d | 2026-08-19 | 0 | 17 | 4 | 0 | 3 | 18 |
+| last60d | 2026-07-20 | 0 | 25 | 9 | 0 | 4 | 27 |
+| 90d | 2026-06-20 | 0 | 31 | 9 | 0 | 4 | 36 |
+| last180d | 2026-03-22 | 0 | 55 | 12 | 1 | 6 | 64 |
+| 360d | 2025-09-23 | 0 | 140 | 13 | 3 | 14 | 173 |
+| last720d | 2024-09-28 | 0 | 249 | 16 | 15 | 47 | 365 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:24:52Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T05:12:42Z._
