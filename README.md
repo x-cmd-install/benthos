@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-![benthos](https://repo.x-cmd.io/benthos.svg)
+[![x-cmd/install — benthos Code Quality Monitoring Repo Card](https://repo.x-cmd.io/benthos.svg)](https://x-cmd.com/install/benthos)
 
 ## Install
 
@@ -12,11 +12,11 @@ x install benthos
 
 ## Code insight
 
-Total: **151,711** lines of code across **861** files in the top 5 languages.
+Total: **151,854** lines of code across **861** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 150,419 | 12,210 | 25,619 | 820 |
+| Go | 150,562 | 12,226 | 25,652 | 820 |
 | Yaml | 1,132 | 5 | 107 | 38 |
 | Rust | 54 | 4 | 19 | 1 |
 | Html | 43 | 0 | 1 | 1 |
@@ -29,22 +29,22 @@ Total: **151,711** lines of code across **861** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 571 · **Forks**: 120 · **Open issues**: 80 · **Contributors**: 47
+- **Stars**: 571 · **Forks**: 121 · **Open issues**: 80 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 299 · **Open PRs**: 25 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5452
+- **Releases**: 0 · **Merged PRs**: 300 · **Open PRs**: 25 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5453
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 17 | 4 | 0 | 3 | 18 |
-| last60d | 2026-07-20 | 0 | 25 | 9 | 0 | 4 | 27 |
-| 90d | 2026-06-20 | 0 | 31 | 9 | 0 | 4 | 36 |
-| last180d | 2026-03-22 | 0 | 55 | 12 | 1 | 6 | 64 |
-| 360d | 2025-09-23 | 0 | 140 | 13 | 3 | 14 | 173 |
-| last720d | 2024-09-28 | 0 | 249 | 16 | 15 | 47 | 365 |
+| 30d | 2026-08-21 | 0 | 17 | 3 | 0 | 2 | 19 |
+| last60d | 2026-07-22 | 0 | 25 | 9 | 0 | 4 | 27 |
+| 90d | 2026-06-22 | 0 | 30 | 9 | 0 | 4 | 28 |
+| last180d | 2026-03-24 | 0 | 56 | 11 | 1 | 6 | 65 |
+| 360d | 2025-09-25 | 0 | 140 | 13 | 3 | 14 | 174 |
+| last720d | 2024-09-30 | 0 | 250 | 16 | 15 | 47 | 366 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:12:42Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:21:07Z._
