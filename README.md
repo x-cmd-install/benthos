@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-[![x-cmd/install — benthos Code Quality Monitoring Repo Card](https://repo.x-cmd.io/benthos.svg)](https://x-cmd.com/install/benthos)
+[![x-cmd/install — benthos Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/benthos.svg)](https://x-cmd.com/install/benthos)
 
 ## Install
 
@@ -39,12 +39,12 @@ Total: **151,854** lines of code across **861** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 17 | 3 | 0 | 2 | 19 |
-| last60d | 2026-07-24 | 0 | 25 | 9 | 0 | 4 | 27 |
-| 90d | 2026-06-24 | 0 | 29 | 9 | 0 | 4 | 28 |
-| last180d | 2026-03-26 | 0 | 56 | 11 | 1 | 6 | 65 |
-| 360d | 2025-09-27 | 0 | 140 | 13 | 3 | 14 | 174 |
-| last720d | 2024-10-02 | 0 | 250 | 16 | 15 | 47 | 366 |
+| 30d | 2026-08-24 | 0 | 17 | 3 | 0 | 2 | 19 |
+| last60d | 2026-07-25 | 0 | 25 | 9 | 0 | 4 | 27 |
+| 90d | 2026-06-25 | 0 | 28 | 9 | 0 | 4 | 28 |
+| last180d | 2026-03-27 | 0 | 56 | 11 | 1 | 6 | 65 |
+| 360d | 2025-09-28 | 0 | 140 | 13 | 3 | 14 | 174 |
+| last720d | 2024-10-03 | 0 | 250 | 16 | 15 | 47 | 366 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:25:17Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:28:23Z._
