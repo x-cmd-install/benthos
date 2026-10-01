@@ -12,11 +12,11 @@ x install benthos
 
 ## Code insight
 
-Total: **151,854** lines of code across **861** files in the top 5 languages.
+Total: **151,925** lines of code across **864** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 150,562 | 12,226 | 25,652 | 820 |
+| Go | 150,633 | 12,263 | 25,680 | 823 |
 | Yaml | 1,132 | 5 | 107 | 38 |
 | Rust | 54 | 4 | 19 | 1 |
 | Html | 43 | 0 | 1 | 1 |
@@ -33,18 +33,18 @@ Total: **151,854** lines of code across **861** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 300 · **Open PRs**: 30 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5453
+- **Releases**: 0 · **Merged PRs**: 303 · **Open PRs**: 27 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5456
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 14 | 8 | 0 | 2 | 7 |
-| last60d | 2026-08-01 | 0 | 21 | 14 | 0 | 4 | 23 |
-| 90d | 2026-07-02 | 0 | 28 | 14 | 0 | 4 | 28 |
-| last180d | 2026-04-03 | 0 | 53 | 15 | 1 | 6 | 62 |
-| 360d | 2025-10-05 | 0 | 137 | 18 | 2 | 14 | 171 |
-| last720d | 2024-10-10 | 0 | 249 | 21 | 15 | 44 | 364 |
+| 30d | 2026-09-01 | 0 | 13 | 5 | 0 | 2 | 10 |
+| last60d | 2026-08-02 | 0 | 24 | 11 | 0 | 4 | 26 |
+| 90d | 2026-07-03 | 0 | 31 | 11 | 0 | 4 | 31 |
+| last180d | 2026-04-04 | 0 | 56 | 12 | 1 | 6 | 65 |
+| 360d | 2025-10-06 | 0 | 140 | 15 | 2 | 14 | 174 |
+| last720d | 2024-10-11 | 0 | 252 | 18 | 15 | 44 | 367 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T05:54:52Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T06:10:16Z._
