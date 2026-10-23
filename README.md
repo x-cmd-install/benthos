@@ -12,11 +12,11 @@ x install benthos
 
 ## Code insight
 
-Total: **153,534** lines of code across **869** files in the top 5 languages.
+Total: **154,792** lines of code across **875** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 152,242 | 12,378 | 25,869 | 828 |
+| Go | 153,500 | 12,628 | 25,983 | 834 |
 | Yaml | 1,132 | 5 | 107 | 38 |
 | Rust | 54 | 4 | 19 | 1 |
 | Html | 43 | 0 | 1 | 1 |
@@ -33,18 +33,27 @@ Total: **153,534** lines of code across **869** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 312 · **Open PRs**: 39 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5465
+- **Releases**: 0 · **Merged PRs**: 313 · **Open PRs**: 39 · **Closed issues**: 23 · **Open issues**: 57 · **Commits**: 5466
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 0 | 12 | 15 | 0 | 0 | 12 |
-| last60d | 2026-08-23 | 0 | 29 | 17 | 0 | 2 | 31 |
-| 90d | 2026-07-24 | 0 | 37 | 23 | 0 | 4 | 40 |
-| last180d | 2026-04-25 | 0 | 63 | 24 | 1 | 6 | 71 |
-| 360d | 2025-10-27 | 0 | 142 | 27 | 2 | 13 | 174 |
-| last720d | 2024-11-01 | 0 | 247 | 30 | 14 | 42 | 346 |
+| 30d | 2026-09-23 | 0 | 13 | 15 | 0 | 0 | 13 |
+| last60d | 2026-08-24 | 0 | 30 | 17 | 0 | 2 | 32 |
+| 90d | 2026-07-25 | 0 | 38 | 23 | 0 | 4 | 41 |
+| last180d | 2026-04-26 | 0 | 64 | 24 | 1 | 6 | 72 |
+| 360d | 2025-10-28 | 0 | 143 | 27 | 2 | 13 | 175 |
+| last720d | 2024-11-02 | 0 | 248 | 30 | 14 | 42 | 344 |
+
+## Distribution status
+
+Reported by **8** distros on [repology.org](https://repology.org/project/benthos). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `4.84.0` | ✅ latest |
+| Nix unstable | `4.77.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -55,4 +64,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:08:00Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:13:00Z._
