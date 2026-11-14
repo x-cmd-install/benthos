@@ -12,11 +12,11 @@ x install benthos
 
 ## Code insight
 
-Total: **155,266** lines of code across **877** files in the top 5 languages.
+Total: **155,389** lines of code across **877** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 153,974 | 12,682 | 26,032 | 836 |
+| Go | 154,097 | 12,715 | 26,068 | 836 |
 | Yaml | 1,132 | 5 | 107 | 38 |
 | Rust | 54 | 4 | 19 | 1 |
 | Html | 43 | 0 | 1 | 1 |
@@ -29,22 +29,22 @@ Total: **155,266** lines of code across **877** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 583 · **Forks**: 127 · **Open issues**: 83 · **Contributors**: 47
+- **Stars**: 584 · **Forks**: 127 · **Open issues**: 83 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 328 · **Open PRs**: 38 · **Closed issues**: 24 · **Open issues**: 59 · **Commits**: 5481
+- **Releases**: 0 · **Merged PRs**: 329 · **Open PRs**: 37 · **Closed issues**: 24 · **Open issues**: 59 · **Commits**: 5482
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-14 | 0 | 14 | 11 | 1 | 2 | 18 |
-| last60d | 2026-09-14 | 0 | 29 | 15 | 1 | 2 | 29 |
-| 90d | 2026-08-15 | 0 | 49 | 18 | 1 | 5 | 51 |
-| last180d | 2026-05-17 | 0 | 69 | 23 | 1 | 8 | 73 |
-| 360d | 2025-11-18 | 0 | 145 | 26 | 3 | 14 | 177 |
-| last720d | 2024-11-23 | 0 | 258 | 29 | 13 | 39 | 335 |
+| 30d | 2026-10-15 | 0 | 13 | 10 | 1 | 2 | 19 |
+| last60d | 2026-09-15 | 0 | 30 | 14 | 1 | 2 | 30 |
+| 90d | 2026-08-16 | 0 | 50 | 17 | 1 | 5 | 52 |
+| last180d | 2026-05-18 | 0 | 70 | 22 | 1 | 8 | 74 |
+| 360d | 2025-11-19 | 0 | 146 | 25 | 3 | 14 | 178 |
+| last720d | 2024-11-24 | 0 | 259 | 28 | 13 | 39 | 336 |
 
 ## Distribution status
 
@@ -64,4 +64,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261113.yml` · 2026-11-13T07:06:15Z._
+_Snapshot: `data/card/261114.yml` · 2026-11-14T07:10:00Z._
