@@ -12,11 +12,11 @@ x install benthos
 
 ## Code insight
 
-Total: **155,389** lines of code across **877** files in the top 5 languages.
+Total: **155,844** lines of code across **877** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 154,097 | 12,715 | 26,068 | 836 |
+| Go | 154,552 | 12,772 | 26,165 | 836 |
 | Yaml | 1,132 | 5 | 107 | 38 |
 | Rust | 54 | 4 | 19 | 1 |
 | Html | 43 | 0 | 1 | 1 |
@@ -33,18 +33,18 @@ Total: **155,389** lines of code across **877** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 329 · **Open PRs**: 40 · **Closed issues**: 24 · **Open issues**: 60 · **Commits**: 5482
+- **Releases**: 0 · **Merged PRs**: 333 · **Open PRs**: 36 · **Closed issues**: 24 · **Open issues**: 60 · **Commits**: 5486
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 12 | 12 | 1 | 3 | 16 |
-| last60d | 2026-09-18 | 0 | 29 | 17 | 1 | 3 | 29 |
-| 90d | 2026-08-19 | 0 | 47 | 19 | 1 | 6 | 48 |
-| last180d | 2026-05-21 | 0 | 69 | 24 | 1 | 8 | 73 |
-| 360d | 2025-11-22 | 0 | 145 | 28 | 3 | 15 | 177 |
-| last720d | 2024-11-27 | 0 | 257 | 31 | 13 | 40 | 331 |
+| 30d | 2026-10-20 | 0 | 15 | 8 | 1 | 3 | 20 |
+| last60d | 2026-09-20 | 0 | 33 | 12 | 1 | 3 | 33 |
+| 90d | 2026-08-21 | 0 | 50 | 14 | 1 | 5 | 52 |
+| last180d | 2026-05-23 | 0 | 72 | 20 | 1 | 8 | 77 |
+| 360d | 2025-11-24 | 0 | 148 | 24 | 3 | 15 | 181 |
+| last720d | 2024-11-29 | 0 | 258 | 27 | 12 | 39 | 330 |
 
 ## Distribution status
 
@@ -52,7 +52,7 @@ Reported by **8** distros on [repology.org](https://repology.org/project/benthos
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `4.84.0` | ✅ latest |
+| Homebrew | `4.85.0` | ✅ latest |
 | Nix unstable | `4.77.0` | ⚠️ outdated |
 
 ## Improve this data
@@ -64,4 +64,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T08:19:26Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:40:50Z._
