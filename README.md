@@ -29,31 +29,22 @@ Total: **155,844** lines of code across **877** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 584 · **Forks**: 129 · **Open issues**: 84 · **Contributors**: 47
+- **Stars**: 584 · **Forks**: 128 · **Open issues**: 84 · **Contributors**: 47
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 334 · **Open PRs**: 36 · **Closed issues**: 24 · **Open issues**: 60 · **Commits**: 5487
+- **Releases**: 0 · **Merged PRs**: 334 · **Open PRs**: 37 · **Closed issues**: 24 · **Open issues**: 60 · **Commits**: 5487
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 9 | 9 | 1 | 3 | 18 |
-| last60d | 2026-09-27 | 0 | 31 | 11 | 1 | 3 | 33 |
-| 90d | 2026-08-28 | 0 | 49 | 15 | 1 | 5 | 53 |
-| last180d | 2026-05-30 | 0 | 72 | 21 | 1 | 7 | 77 |
-| 360d | 2025-12-01 | 0 | 149 | 24 | 3 | 13 | 179 |
-| last720d | 2024-12-06 | 0 | 259 | 27 | 12 | 38 | 329 |
-
-## Distribution status
-
-Reported by **8** distros on [repology.org](https://repology.org/project/benthos). **1** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `4.85.0` | ✅ latest |
-| Nix unstable | `4.84.0` | ⚠️ outdated |
+| 30d | 2026-10-28 | 0 | 6 | 10 | 1 | 3 | 18 |
+| last60d | 2026-09-28 | 0 | 31 | 12 | 1 | 3 | 33 |
+| 90d | 2026-08-29 | 0 | 49 | 16 | 1 | 5 | 53 |
+| last180d | 2026-05-31 | 0 | 72 | 22 | 1 | 7 | 77 |
+| 360d | 2025-12-02 | 0 | 148 | 25 | 3 | 13 | 179 |
+| last720d | 2024-12-07 | 0 | 259 | 28 | 12 | 38 | 329 |
 
 ## Improve this data
 
@@ -64,4 +55,4 @@ Install metadata for benthos lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T09:32:55Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:26:50Z._
