@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:26:26Z
+  collectedAt: 2026-11-28T08:12:16Z
 timeline:
   created: 2024-05-20
   lastCommit: 2026-11-24
@@ -32,7 +32,7 @@ language:
 totalBytes: 5307229
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 0
     mergedPR: 6
     openPR: 10
@@ -40,7 +40,7 @@ recent:
     openIssue: 3
     commit: 18
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 0
     mergedPR: 31
     openPR: 12
@@ -48,7 +48,7 @@ recent:
     openIssue: 3
     commit: 33
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 0
     mergedPR: 49
     openPR: 16
@@ -56,15 +56,15 @@ recent:
     openIssue: 5
     commit: 53
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 0
-    mergedPR: 72
+    mergedPR: 71
     openPR: 22
     closedIssue: 1
     openIssue: 7
     commit: 77
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 0
     mergedPR: 148
     openPR: 25
@@ -72,7 +72,7 @@ recent:
     openIssue: 13
     commit: 179
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 0
     mergedPR: 259
     openPR: 28
@@ -88,7 +88,7 @@ total:
   commit: 5487
 ---
 path: /home/runner/.x-repo/github.com/redpanda-data/benthos
-collectedAt: 2026-11-27T09:26:31Z
+collectedAt: 2026-11-28T08:12:21Z
 loc:
   Go:
     code: 154552
